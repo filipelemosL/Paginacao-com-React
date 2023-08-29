@@ -15,7 +15,7 @@ Começou com um desafio técnico que fiz em uma entrevista de emprego sobre uma 
 
 ## Como Executar
 
-1. Clone este repositório para o seu computador:
+Clone este repositório para o seu computador:
    
    ```bash
    git clone https://github.com/filipelemosL/Paginacao-com-React.git
