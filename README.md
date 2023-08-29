@@ -19,18 +19,15 @@ Este projeto é um exemplo simples de paginação de lista de produtos utilizand
    git clone https://github.com/filipelemosL/Paginacao-com-React.git
 Navegue para a pasta do projeto:
 
-bash
-Copy code
+```bash
 cd Paginacao-com-React
 Instale as dependências:
 
-bash
-Copy code
+```bash
 npm install
 Inicie o servidor de desenvolvimento:
 
-bash
-Copy code
+```bash
 npm run dev
 Acesse a aplicação em seu navegador em através do endereço que será fornecido
 
