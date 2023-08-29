@@ -21,14 +21,17 @@ Navegue para a pasta do projeto:
 
 ```bash
 cd Paginacao-com-React
+
 Instale as dependências:
 
 ```bash
 npm install
+
 Inicie o servidor de desenvolvimento:
 
 ```bash
 npm run dev
+
 Acesse a aplicação em seu navegador em através do endereço que será fornecido
 
 Tecnologias Utilizadas
