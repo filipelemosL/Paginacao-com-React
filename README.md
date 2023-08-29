@@ -1,6 +1,7 @@
 # Paginação com React
 
 Este projeto é um exemplo simples de paginação de lista de produtos utilizando React.
+Começou com um desafio técnico que fiz em uma entrevista de emprego sobre uma paginação de videos, depois decidi fazer algumas melhorias e tornar disponivel aqui, usando uma api de produtos.
 
 ## Funcionalidades
 
