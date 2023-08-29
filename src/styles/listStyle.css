@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&display=swap');
+
+body {
+  display: flex;
+  justify-content: center;
+  font-family: 'Acme', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(207, 245, 212);
+}
+
+/* Estilos do título principal */
+.mainTitle {
+  text-align: center;
+  margin: 20px 0;
+  font-family: 'Bagel Fat One', cursive;
+}
+
+
+/* Estilos do contêiner de produtos */
+.productContainer {
+  background-color: white;
+  height: auto;
+  width: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border-radius: 10px;
+}
+
+/* Estilos do cartão de produto */
+.productCard {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.productImage {
+  width: 200px;
+  height: 250px;
+  border-radius: 8px;
+}
+
+/* Estilos das informações do produto */
+.productSpecs {
+  margin-top: 10px;
+}
+
+.productTitle {
+  font-size: 1.2rem;
+  margin: 5px 0;
+}
+
+.productPrice {
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+.productCategory {
+  font-style: italic;
+  margin: 5px 0;
+}
+
+.productDescription {
+  margin: 10px 0;
+}
+
+/* Estilos da paginação */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  gap: 20px;
+}
+
+.button {
+  padding: 5px 10px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
