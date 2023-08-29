@@ -44,9 +44,6 @@ Tecnologias Utilizadas
 - React
 - HTML
 - CSS
-Recursos Adicionais
-- Documentação da API fakestoreapi
-Contribuição
-- Se você quiser contribuir com melhorias neste projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+- JavaScript
 
 Feito com ❤️ por Filipe Lemos
